@@ -10,3 +10,4 @@ the coes in the order of execution are:
 Other functions: 
 1. All_Data_ds: downsampling the AllData structure, for the time-frequency ITPC.
 2. FDR_clusBased_permuTest: runs cluster-based permutation test and plot in transparent/bold colors for pre-post correction, respectively. 
+3. basewave4: compute the time-frequency representation with Morlet wavelet (written/editted by Peter Lakatos). 
